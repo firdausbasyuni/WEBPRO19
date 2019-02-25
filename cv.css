@@ -1,0 +1,55 @@
+body{
+	font-family: 'Courier New';
+	background-image: url("bg9.jpg");
+}
+#opener a{
+	text-decoration: none;
+}
+.menu_atas{ 
+	width: 100%; 
+ 	height: 40px;  
+ 	border-radius: 10px;
+} 
+
+.menu_atas ul li{ 
+ 	float: left; 
+ 	margin-right: 4%; 
+ 	margin-top: 10px; 
+ 	list-style-type: none;
+} 
+
+.menu_atas ul li a{ 
+ 	text-decoration: none; 
+ 	color: black; 
+}
+
+#prof{
+	width: 100%;
+	height: 500px;
+}
+
+#prof2{
+	margin-left: 810px;
+	margin-top: -500px;
+}
+
+#pendidikan{
+	margin-top: 40px;
+}
+
+#pendidikan p{
+	text-align: center;
+}
+
+#peng p{
+	text-align: center;
+}
+
+#hobi p{
+	text-align: center;
+}
+
+#kontak a{
+	float: left;
+	margin-left: 0px;
+}
